@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-24T12:27:00 IST" name="Default suite" finished-at="2023-06-24T12:28:32 IST" duration-ms="91715">
+    <groups>
+    </groups>
+    <test started-at="2023-06-24T12:27:00 IST" name="Default test" finished-at="2023-06-24T12:28:32 IST" duration-ms="91715">
+      <class name="digitalWebSolution.ClickOnInterviewTab">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:digitalWebSolution.ClickOnInterviewTab@1c5920df]" started-at="2023-06-24T12:27:00 IST" name="setUp" finished-at="2023-06-24T12:27:24 IST" duration-ms="23826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnInterviewTabtab()[pri:1, instance:digitalWebSolution.ClickOnInterviewTab@1c5920df]" started-at="2023-06-24T12:27:24 IST" name="ClickOnInterviewTabtab" finished-at="2023-06-24T12:27:53 IST" duration-ms="29520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnInterviewTabtab -->
+        <test-method signature="clickChrisDreyer()[pri:2, instance:digitalWebSolution.ClickOnInterviewTab@1c5920df]" started-at="2023-06-24T12:27:53 IST" name="clickChrisDreyer" finished-at="2023-06-24T12:28:19 IST" duration-ms="25247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickChrisDreyer -->
+        <test-method signature="clickTravis()[pri:3, instance:digitalWebSolution.ClickOnInterviewTab@1c5920df]" started-at="2023-06-24T12:28:19 IST" name="clickTravis" finished-at="2023-06-24T12:28:31 IST" duration-ms="12775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTravis -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:digitalWebSolution.ClickOnInterviewTab@1c5920df]" started-at="2023-06-24T12:28:31 IST" name="tearDown" finished-at="2023-06-24T12:28:32 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- digitalWebSolution.ClickOnInterviewTab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
